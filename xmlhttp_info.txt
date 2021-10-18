@@ -1,0 +1,30 @@
+<br/>
+<hr/>
+<br/>
+=> XML Http Request is Running by the Browser...!!
+<br/>
+<hr/>
+<br/>
+=> Server Connection Established...
+<br/>
+<hr/>
+<br/>
+=> XML Http Request is Received by the Server...!!
+<br/>
+<hr/>
+<br/>
+=> Processing Request...
+<br/>
+<hr/>
+<br/>
+=> Request Finished and Response is Ready...!!
+<br/>
+<hr/>
+<br/>
+=> Displaying Data by the Browser...!! 
+<br/>
+<hr/>
+<br/>
+<br/>
+<br/>
+<h1>You Received the Data from server using XML Http Request...!!</h1>
