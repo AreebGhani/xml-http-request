@@ -1,4 +1,4 @@
-##### Demo https://areebghani.github.io/xml-html-request/
+##### Demo https://areebghani.github.io/xml-http-request/
  
  ## Let's Go . . . ! !
  
